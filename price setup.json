@@ -1,7 +1,7 @@
 {
-  "PAL/USDT": {  // pair name
-    "price": 0.00001730, // central price
-    "up": 0.02, // percent deviation top line 2% = 0.02
-    "down": 0.02  // percent deviation bottom line 2% = 0.02
+  "PAL/TRX": {  
+    "price": 0.00013540, 
+    "up": 0.02,
+    "down": 0.02 
   }
 }
